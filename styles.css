@@ -1,0 +1,37 @@
+body {
+    background:#F2DAAC;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.assignemnts {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.assignment {
+    width:30%;
+    padding:10px;
+    margin:10px;
+    margin-bottom: 30px;
+    background:#A6415C;
+    border-radius:5px;
+    box-shadow: 5px 8px #734E38;
+}
+
+.assignment img {
+    width:200px;
+    border: 2px solid #734E38;
+    margin-right:20px;
+    display:block;
+    margin:auto;
+}
+
+h1 {
+    color: #BF5050;
+    text-align:center;
+}
+
+a {
+    text-decoration:none;
+    color:#BF8450;
+}
